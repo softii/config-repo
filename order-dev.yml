@@ -37,4 +37,4 @@ logging:
   level:
     com.rdkl.product.mapper: debug
 env:
-  dev
+  dev2
