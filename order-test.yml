@@ -24,10 +24,6 @@ spring:
       filter:
         slf4j:
           connection-logger-name: debug
-eureka:
-  client:
-    service-url:
-      defaultZone: http://127.0.0.1:1001/eureka/
 mybatis:
   type-aliases-package: com.rdkl.xtbj.domain
   configuration:
