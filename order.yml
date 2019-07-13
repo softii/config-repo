@@ -31,3 +31,5 @@ mybatis:
 logging:
   level:
     com.rdkl.product.mapper: debug
+test:
+  ver: 1.2.1
